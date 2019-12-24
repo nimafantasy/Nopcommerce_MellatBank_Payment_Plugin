@@ -1,0 +1,8 @@
+﻿Group: Payment methods
+FriendlyName: Mellat Bank
+SystemName: Payments.MellatBank
+Version: 1.0
+SupportedVersions: 3.70
+Author: Nima Gholizadeh
+DisplayOrder: 1
+FileName: Nop.Plugin.Payments.MellatBank.dll
